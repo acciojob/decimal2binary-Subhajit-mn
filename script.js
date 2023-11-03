@@ -9,7 +9,7 @@ function decimalToBinary(num) {
 		}
 		num = Math.floor(num / 2);
 	}
-	console.log(output);
+	//console.log(output);
 }
 
 window.decimalToBinary = decimalToBinary;
